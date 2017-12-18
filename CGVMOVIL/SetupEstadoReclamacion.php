@@ -36,4 +36,5 @@ ValidaRol('CGVMMRPE');
  */
 $_class = new SetupEstadoReclamacion();
 $_class->_check_var();
+$_class->_check_var();
 ?>
