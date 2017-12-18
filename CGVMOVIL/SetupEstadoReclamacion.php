@@ -14,6 +14,7 @@
 $Raiz = dirname(dirname(__file__));
 
 /**
+ * nueva cosa en esta vaina
  * Inclusiones al archivo para implementar metodos y estandares
  */
 include_once $Raiz . '/include/Packeges.php';
